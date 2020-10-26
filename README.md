@@ -1,1 +1,1 @@
-Source code Nested Attributes in Rails
+Source code example for Nested Attributes in Rails
